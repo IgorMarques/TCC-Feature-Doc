@@ -18,5 +18,6 @@ This work presents a tool that allows developers to combine text, code and exter
 
 ## Links úteis:
 
+- [PDF do artigo](https://github.com/coopera/TCC-Igor_Marques-Twydi/raw/master/twydi-igor_marques.pdf)
 - [Ferramenta em execução](http://that-s-the-way-you-do-it.herokuapp.com)
 - [Repositório com código da ferramenta](https://github.com/coopera/that-s-the-way-you-do-it)
